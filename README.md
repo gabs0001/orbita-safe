@@ -146,27 +146,21 @@ Os próximos passos planejados incluem:
 
 ---
 
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-### Dashboard
+<p align="center">
+  <img src="assets/dashboard.png" width="226"/>
+  <img src="assets/map.png" width="226"/>
+</p>
 
-![Dashboard](assets/dashboard.png)
+<p align="center">
+  <img src="assets/alerts.png" width="226"/>
+  <img src="assets/ai-insights.png" width="226"/>
+</p>
 
-### Map Overview
-
-![Map Overview](assets/map.png)
-
-### Active Alerts
-
-![Active Alerts](assets/alerts.png)
-
-### AI Insights
-
-![AI Insights](assets/ai-insights.png)
-
-### Emergency Support
-
-![Emergency Support](assets/emergency.png)
+<p align="center">
+  <img src="assets/emergency.png" width="226"/>
+</p>
 
 ---
 
