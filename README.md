@@ -146,6 +146,30 @@ Os próximos passos planejados incluem:
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Map Overview
+
+![Map Overview](assets/map.png)
+
+### Active Alerts
+
+![Active Alerts](assets/alerts.png)
+
+### AI Insights
+
+![AI Insights](assets/ai-insights.png)
+
+### Emergency Support
+
+![Emergency Support](assets/emergency.png)
+
+---
+
 ## 📌 Status
 
 Em desenvolvimento contínuo.
