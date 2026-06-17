@@ -149,17 +149,17 @@ Os próximos passos planejados incluem:
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="assets/dashboard.png" width="226"/>
-  <img src="assets/map.png" width="226"/>
+  <img src="assets/dashboard.png" width="226" height="496"/>
+  <img src="assets/map.png" width="226" height="496"/>
 </p>
 
 <p align="center">
-  <img src="assets/alerts.png" width="226"/>
-  <img src="assets/ai-insights.png" width="226"/>
+  <img src="assets/alerts.png" width="226" height="496"/>
+  <img src="assets/ai-insights.png" width="226" height="496"/>
 </p>
 
 <p align="center">
-  <img src="assets/emergency.png" width="226"/>
+  <img src="assets/emergency.png" width="226" height="496"/>
 </p>
 
 ---
